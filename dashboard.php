@@ -97,7 +97,7 @@
             <h1 class="title">Application Reactions Spread Sheet</h1>
             <h2 class="subtitle">This is the spread sheet that includes all the staff applications</h2>
         </div><br>
-        <a class="button is-medium is-info" href="https://discord.gg/XKxVPjt" target="_blank">Google spread sheet</a>
+        <a class="button is-medium is-info" href="https://docs.google.com/spreadsheets/d/1sRVil66hmSVwNk4IJcBpxSwDeUHOjpFHZuTtbMQnmWA/edit?usp=sharing " target="_blank">Google spread sheet</a>
     </div>
 </section>
 
